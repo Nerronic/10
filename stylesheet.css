@@ -1,0 +1,45 @@
+body{
+    background-color: purple;
+}
+header{
+font-size: 50px;
+position: absolute;
+`
+}
+
+
+h1,h2{
+    color: yellow;
+    font-size: larger;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+p{
+    background-color: antiquewhite;
+}
+
+
+.nav-header{
+    margin: 10px;
+    font-size: 20px;
+    padding: 20px;
+    background-color: rgb(235, 21, 171);
+    float: left;
+    width: 70%;
+    padding: 20px;
+    
+
+}
+
+.nav-header ul{
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: space-around;
+}
+
+.nav-header ul li{
+    padding: 10px 0;
+    text-align: left;
+}
